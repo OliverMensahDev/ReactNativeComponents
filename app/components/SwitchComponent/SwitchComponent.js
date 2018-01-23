@@ -2,19 +2,15 @@ import React, {Component} from 'react';
 import {Text, View, Switch} from 'react-native';
 
 export default class SwitchComponent extends Component{
-    constructor(){
-        super();
-        this.state = {
+    state = {
             value: this.props.value
-        }
     }
 
     static defaultProps = {
         value: false
     }
 
-    onValueChange(value){
-        console.log(value);
+    onValueChange = (value) => {
         this.setState({value: value});
     }
 

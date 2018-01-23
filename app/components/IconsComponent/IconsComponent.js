@@ -3,13 +3,6 @@ import {Text, View,ToolbarAndroid} from 'react-native';
 import Icon from 'react-native-vector-icons/FontAwesome';
 
 export default class IconsComponent extends Component{
-    constructor(){
-        super();
-        this.state = {
-            
-        }
-    }
-
     render(){
         return (
         <View>

@@ -2,55 +2,28 @@ import React, {Component} from 'react';
 import { Text, View, ToolbarAndroid, StyleSheet} from 'react-native';
 
 export default class ToolbarAndroidComponent extends Component{
-    constructor(){
-        super();
-        this.state = {
-            actionText: 'Welcome to my great app!'
-        }
+    state = {
+        actionText: 'Welcome to my great app!'
     }
 
-    onSettingsClick(){
+    onSettingsClick =() =>{
         console.log('Settings Clicked...');
     }
 
-    onActionSelected(position){
+    onActionSelected = (position) =>{
         this.setState({
             actionText: 'SELECTED: '+ toolbarActions[position].title
         });
     }
 
     render(){
-        /*
-        return (
-        <View>
-            <ToolbarAndroid
-                style={styles.toolbar}
-                title="MyApp"
-            />
-        </View>
-        )
-        */
-
-        /*
-        return (
-        <View>
-            <ToolbarAndroid
-                style={styles.toolbar}
-                logo={require('./app_logo.png')}
-                actions={[{title: 'Settings', icon: require('./icon_settings.png'), show:'always'}]}
-                onActionSelected={this.onSettingsClick}
-            />
-        </View>
-        )
-        */
-
         return (
         <View>
             <ToolbarAndroid
                 style={styles.toolbar}
                 logo={require('./ic_launcher.png')}
                 actions={toolbarActions}
-                onActionSelected={this.onActionSelected.bind(this)}
+                onActionSelected={(position) => this.onActionSelected(position)}
                 subtitle={this.state.actionText}
                 title="MyApp"
             />

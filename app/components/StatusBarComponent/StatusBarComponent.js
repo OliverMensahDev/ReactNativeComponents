@@ -2,11 +2,9 @@ import React, {Component} from 'react';
 import {Text, View, StatusBar} from 'react-native';
 
 export default class StatusBarComponent extends Component{
-    constructor(props){
-        super(props);
-        this.state = {
+    state = {
             barColor: this.props.barColor
-        }
+        
     }
 
     static defaultProps = {

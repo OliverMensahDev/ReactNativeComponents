@@ -2,11 +2,8 @@ import React, {Component} from 'react';
 import {Text, View, TouchableHighlight, StyleSheet, Image, TouchableOpacity} from 'react-native';
 
 export default class TouchableComponent extends Component{
-    constructor(){
-        super();
-        this.state = {
+    state = {
             toggle:true
-        }
     }
 
     render(){

@@ -2,14 +2,11 @@ import React, {Component} from 'react';
 import {Text, View, Slider} from 'react-native';
 
 export default class SliderComponent extends Component{
-    constructor(props){
-        super(props);
-        this.state = {
-            value: this.props.value,
-            max: this.props.max,
-            min: this.props.min,
-            step: this.props.step
-        }
+    state = {
+        value: this.props.value,
+        max: this.props.max,
+        min: this.props.min,
+        step: this.props.step
     }
 
     static defaultProps = {
@@ -19,12 +16,12 @@ export default class SliderComponent extends Component{
         step:1
     }
 
-    onValueChange(value){
+    onValueChange = (value) =>{
         this.setState({value:value});
     }
 
-    onSlideComplete(value){
-        console.log('COMPLETE: '+value);
+    onSlideComplete =(value) =>{
+        this.setState({value:value});
     }
 
     render(){

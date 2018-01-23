@@ -2,5 +2,9 @@
     {
         "merged": "/home/olivermensah/reactcomponents/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
         "source": "/home/olivermensah/reactcomponents/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/olivermensah/ReactNativeComponents/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/olivermensah/ReactNativeComponents/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     }
 ]

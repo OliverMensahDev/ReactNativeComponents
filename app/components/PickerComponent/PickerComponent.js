@@ -2,15 +2,11 @@ import React, {Component} from 'react';
 import {Text, View, Picker} from 'react-native';
 
 export default class PickerComponent extends Component{
-    constructor(){
-        super();
-        this.state = {
+   state = {
             category: 'Technology'
-        }
     }
 
-    onValueChange(key, value){
-        console.log(key+':'+value);
+    onValueChange = (value) => {
         this.setState({category: value});
     }
 
@@ -19,7 +15,7 @@ export default class PickerComponent extends Component{
         <View>
             <Picker
                 selectedValue={this.state.category}
-                onValueChange={this.onValueChange.bind(this, 'category')}
+                onValueChange={(category) => this.onValueChange(category)}
                 prompt="Category"
                 enabled={true}
                 mode="dropdown"

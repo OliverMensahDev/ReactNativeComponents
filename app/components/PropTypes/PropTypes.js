@@ -1,7 +1,8 @@
 import React, {Component} from 'react';
+import PropTypes from 'prop-types'
 import {Text, View} from 'react-native';
 
-export default class PropTypes extends Component{
+export default class PropType extends Component{
     constructor(){
         super();
         this.state = {
@@ -13,7 +14,7 @@ export default class PropTypes extends Component{
         message: 'Hello Brad'
     }
 
-    hideMsg(){
+    hideMsg = () => {
         this.setState({showMessage: false});
     }
 
@@ -31,6 +32,6 @@ export default class PropTypes extends Component{
     }
 }
 
-SimpleComponent1.propTypes = {
-    message: React.PropTypes.string
+PropType.propTypes = {
+    message: PropTypes.string
 }
