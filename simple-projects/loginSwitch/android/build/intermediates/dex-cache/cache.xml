@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/olivermensah/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/olivermensah/loginSwitch/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_f7272355aadaa696a371393dd16be88cfa5d8d8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/olivermensah/loginSwitch/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/olivermensah/loginSwitch/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_e3dfa14b10bb71615a8dfb5cf3f3307fc7dfeed6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/olivermensah/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/olivermensah/loginSwitch/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_44f4dd149ca3f3cbb80b7bd3a79d114dac39f927.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/olivermensah/loginSwitch/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/olivermensah/loginSwitch/android/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.3.1_5405248baac068b7fa66d9012ef8fcff2f102887.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/olivermensah/loginSwitch/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/olivermensah/loginSwitch/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_388c2cac4c182606a984babbdc66041dc9a70a7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/olivermensah/loginSwitch/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/olivermensah/loginSwitch/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_52537502a74f2e4369bbd1aed81e45d022e102bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/olivermensah/loginSwitch/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/olivermensah/loginSwitch/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_4e40d4194cde6dde58003d02d6f5d347252f754e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/olivermensah/loginSwitch/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/olivermensah/loginSwitch/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_928b46d574c2f863f2e3e1f9963a00c0daab0fd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/olivermensah/loginSwitch/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/olivermensah/loginSwitch/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_a4f4c4712008186f80cbcb307143c5e442f31fd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/olivermensah/loginSwitch/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/olivermensah/loginSwitch/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_a85338ef180686a84f1ea496be9a6095bb61814a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/olivermensah/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/olivermensah/loginSwitch/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_ef6f1bd41853b3d21111337164f1595d9c7d112f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/olivermensah/loginSwitch/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.0/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/olivermensah/loginSwitch/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_b2773dcca716edb51852d53771594c0328378dae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/olivermensah/loginSwitch/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/olivermensah/loginSwitch/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_3c5c2ef88a1f0b89e9a75492c3232acb16111cea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/olivermensah/loginSwitch/android/app/build/intermediates/exploded-aar/com.aurelhubert/ahbottomnavigation/2.0.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
+        <dex dex="/home/olivermensah/loginSwitch/android/app/build/intermediates/pre-dexed/debug/com.aurelhubert-ahbottomnavigation-2.0.6_02d5fa2b8c45093903e8cfd947adf3833666e1b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/olivermensah/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/olivermensah/loginSwitch/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_ffc32c887223eedf7724ff1b82675fd2d6edc97f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/olivermensah/loginSwitch/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/olivermensah/loginSwitch/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_c3a400cde6d8bc1f8ecc4f134be8ffa1c9c9a3ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/olivermensah/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/olivermensah/loginSwitch/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_39731435c10d73546eb3aebbf4082f93d559365f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/olivermensah/loginSwitch/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9a51262d663efadea9d0c402a5e76aace2685cb">
+        <dex dex="/home/olivermensah/loginSwitch/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.53.0_f60bb1306d50f47b39e2ee1ffc5adb9f9f7b69da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/olivermensah/loginSwitch/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu-toolbar/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
+        <dex dex="/home/olivermensah/loginSwitch/android/app/build/intermediates/pre-dexed/debug/com.balysv.materialmenu-material-menu-toolbar-1.5.4_63ed0c1ba2814a4691be09af96fbd102d4ee8484.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/olivermensah/loginSwitch/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/olivermensah/loginSwitch/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_36c76cf4fe4de0e7d8cfefdc4988016f4addec55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/olivermensah/loginSwitch/android/app/build/intermediates/exploded-aar/loginSwitch/react-native-navigation/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4dfc2cbf904e884a8ce22af07ce5b47ba58baf8f">
+        <dex dex="/home/olivermensah/loginSwitch/android/app/build/intermediates/pre-dexed/debug/loginSwitch-react-native-navigation-unspecified_461f687292bb98a9c85a7b6c584c71bb10046544.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/olivermensah/loginSwitch/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/olivermensah/loginSwitch/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_fe4df258b31886f80dbac491036079a32961acf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/olivermensah/loginSwitch/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="/home/olivermensah/loginSwitch/android/app/build/intermediates/pre-dexed/debug/com.balysv.materialmenu-material-menu-1.5.4_57cd5f3479035e8c64bbf836dee3b5a268ffb4ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/olivermensah/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/olivermensah/loginSwitch/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_8df1833aa40f433913a308fff9ffd48c0fe9192d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/olivermensah/loginSwitch/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/olivermensah/loginSwitch/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_4328b563e1e192e5a83eca4a270462acfb0e4064.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/olivermensah/loginSwitch/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/olivermensah/loginSwitch/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_70c42d922b75fe6bf06009a86e3b314570a994b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/olivermensah/loginSwitch/android/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/olivermensah/loginSwitch/android/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.3.1_101c0fdb46184cb768e0e90d3f67140bd1c67937.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/olivermensah/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/olivermensah/loginSwitch/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_6befebe15ad63c6ec8954bf2dd29c2133d6dbcc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/olivermensah/loginSwitch/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/olivermensah/loginSwitch/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_8403d63d8c3b7752c28da2b26a1365ff87483404.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/olivermensah/loginSwitch/android/app/build/intermediates/exploded-aar/loginSwitch/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="001d8a96417bf5d83cb2759a3bb0d635101dda4c">
+        <dex dex="/home/olivermensah/loginSwitch/android/app/build/intermediates/pre-dexed/debug/loginSwitch-react-native-vector-icons-unspecified_161bc9dfc580c19af97e497368a58caf7a50f60e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/olivermensah/loginSwitch/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/olivermensah/loginSwitch/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_6431d9aa831b8efabd6444f018d8530899e3db95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/olivermensah/loginSwitch/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/olivermensah/loginSwitch/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_6f5a5757a4f261aff998e47bf8e4dafac2b88ef0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/olivermensah/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/olivermensah/loginSwitch/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_6067660ffcfdb2a9065fb1ced135f57848e1cd2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/olivermensah/loginSwitch/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/olivermensah/loginSwitch/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_d8d9ceb7af6e755155b5872e1bdcbdc0002538f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/olivermensah/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/olivermensah/loginSwitch/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_f880530d0f022fe1f8d1bbcf87bd53d2281f339e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/olivermensah/loginSwitch/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/olivermensah/loginSwitch/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_4fe92e8b4ee335244f6918c869fb40194a557e1f.jar" />
+    </item>
+
+</items>

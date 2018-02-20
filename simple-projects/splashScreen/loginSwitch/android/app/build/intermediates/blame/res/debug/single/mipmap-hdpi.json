@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/olivermensah/ReactNativeComponents/simple-projects/splashScreen/loginSwitch/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/olivermensah/ReactNativeComponents/simple-projects/splashScreen/loginSwitch/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/olivermensah/loginSwitch/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/olivermensah/loginSwitch/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/olivermensah/ReactNativeComponents/simple-projects/splashScreen/loginSwitch/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/olivermensah/ReactNativeComponents/simple-projects/splashScreen/loginSwitch/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.0/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/olivermensah/loginSwitch/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/olivermensah/loginSwitch/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.0/res/xml/preferences.xml"
+    }
+]

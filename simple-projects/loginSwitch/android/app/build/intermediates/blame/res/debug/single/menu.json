@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/olivermensah/loginSwitch/android/app/build/intermediates/res/merged/debug/menu/stub.xml",
+        "source": "/home/olivermensah/loginSwitch/android/app/build/intermediates/exploded-aar/loginSwitch/react-native-navigation/unspecified/res/menu/stub.xml"
+    },
+    {
+        "merged": "/home/olivermensah/loginSwitch/android/app/build/intermediates/res/merged/debug/menu/search_item.xml",
+        "source": "/home/olivermensah/loginSwitch/android/app/build/intermediates/exploded-aar/loginSwitch/react-native-navigation/unspecified/res/menu/search_item.xml"
+    }
+]
