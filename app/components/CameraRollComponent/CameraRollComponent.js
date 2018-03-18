@@ -39,7 +39,10 @@ export default class CameraRollComponent extends Component{
             />
             <ScrollView style={styles.container}>
                 <View style={styles.imageGrid}>
-                    {this.state.images.map((image) => <Image style={styles.image} key={image.uri} source={{uri: image.uri}} />)}
+                    {
+                        this.state.images.map((image) =>
+                            <Image style={styles.image} key={image.uri} source={{uri: image.uri}} />)
+                    }
                 </View>
             </ScrollView>
         </View>
